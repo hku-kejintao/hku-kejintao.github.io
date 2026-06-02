@@ -67,17 +67,20 @@ This page highlights software demonstrations and applications developed by our t
 <div class="application-card">
   <h2>Featured Applications</h2>
   <div class="application-actions">
-    <a class="btn btn--primary" href="#large-scale-taxi-simulation-platform">Large-scale Taxi Simulation Platform</a>
+    <a class="btn btn--primary" href="#large-scale-on-demand-ride-service-simulator">Large-scale On-demand RIde Service Simulator</a>
     <a class="btn btn--primary" href="#taxi-idle-cruising-app">Taxi Idle Cruising App</a>
     <a class="btn btn--primary" href="#charge-express">Charge Express</a>
     <a class="btn btn--primary" href="#charging-station-optimization-tool">Charging Station Optimization Tool</a>
   </div>
 </div>
 
-<div class="application-card" id="large-scale-taxi-simulation-platform">
-  <h2>Large-scale Taxi Simulation Platform</h2>
+<div class="application-card" id="large-scale-on-demand-ride-service-simulator">
+  <h2>Large-scale On-demand RIde Service Simulator</h2>
   <p>The large-scale simulation platform supports model training and evaluation for ride-sourcing operations on real transportation networks. It can simulate agent behaviours and vehicle movements, and provides portals for testing optimization and reinforcement learning algorithms for on-demand matching, idle vehicle repositioning, and dynamic pricing.</p>
-  <iframe src="https://www.youtube.com/embed/SuLIKpV2_F4?start=1" title="Large-scale Taxi Simulation Platform" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/SuLIKpV2_F4?start=1" title="Large-scale On-demand RIde Service Simulator" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <div class="application-actions">
+    <a class="btn btn--primary" href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator">Source Code</a>
+  </div>
 </div>
 
 <div class="application-card" id="taxi-idle-cruising-app">
