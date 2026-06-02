@@ -21,12 +21,12 @@ Research Profile
 Selected Honors
 ======
 
-- Meritorious Service Award, *Transportation Science*, 2025.
-- Best Paper Award, 15th International Workshop on Computational Transportation Science, 2024.
-- Best Poster Paper Award, World Transportation Convention, 2023.
-- HKSTS Outstanding Dissertation Award, Honorable Mention, 2020.
-- Hong Kong PhD Fellowship Scheme, 2016.
-- Outstanding Graduate, Department of Civil Engineering, Zhejiang University, 2016.
+- Best paper award in the 15th International Workshop on Computational Transportation Science (CTS), June 2024.
+- Best poster paper award in the 2023 World Transportation Convention, 2023.
+- HKSTS Outstanding Dissertation Award (Honorable Mention), Hong Kong, August 2020.
+- PhD Research Excellence Awards at School of Engineering (Final List), Hong Kong University of Science and Technology, Hong Kong, August 2020.
+- Best poster paper award in the 19th COTA International Conference of Transportation and Professionals, July 2019.
+- Best paper award in the 9th International Workshop on Computational Transportation Science (CTS), July 2017.
 
 Research Interests
 ======

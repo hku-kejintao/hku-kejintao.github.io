@@ -5,7 +5,7 @@ permalink: /applications/
 author_profile: true
 ---
 
-This page highlights software demonstrations and applications developed by the Smart Mobility Lab for smart mobility systems.
+This page highlights software demonstrations and applications developed by our team for smart mobility systems.
 
 <style>
 .application-card {
@@ -66,7 +66,6 @@ This page highlights software demonstrations and applications developed by the S
 
 <div class="application-card">
   <h2>Featured Applications</h2>
-  <p>This page highlights software demonstrations and applications developed by the Smart Mobility Lab for smart mobility systems.</p>
   <div class="application-actions">
     <a class="btn btn--primary" href="#large-scale-taxi-simulation-platform">Large-scale Taxi Simulation Platform</a>
     <a class="btn btn--primary" href="#taxi-idle-cruising-app">Taxi Idle Cruising App</a>
