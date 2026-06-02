@@ -49,8 +49,8 @@ Current Research Assistants
 Student Awards
 ------
 
-- Chen Wang, Research Postgraduate Student Innovation Award of HKU, 2025.
 - Xu Tianyi, HKU Presidential PhD Scholarship, 2026.
+- Chen Wang, Research Postgraduate Student Innovation Award of HKU, 2025.
 - Xu Jiahao, HKU Presidential PhD Scholarship, 2025.
 - Zhang Xun, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2024.
 - Lin Jingxian, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2024.

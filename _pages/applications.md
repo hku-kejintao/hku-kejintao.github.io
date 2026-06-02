@@ -101,10 +101,6 @@ This page highlights software demonstrations and applications developed by our t
     <summary class="btn btn--primary">View Poster</summary>
     <img src="/images/charge-express-poster.png" alt="Charge Express poster">
   </details>
-  <details>
-    <summary class="btn btn--primary">View Charging Toolbox Poster</summary>
-    <img src="/images/charging-toolbox-poster.png" alt="Charging Toolbox poster">
-  </details>
 </div>
 
 <div class="application-card" id="charging-station-optimization-tool">
@@ -113,5 +109,9 @@ This page highlights software demonstrations and applications developed by our t
   <div class="application-actions">
     <a class="btn btn--primary" href="https://chargingonlinetool-9bbf69ab2832.herokuapp.com">Go to Toolbox</a>
   </div>
+  <details>
+    <summary class="btn btn--primary">View Poster</summary>
+    <img src="/images/charging-toolbox-poster.png" alt="Charging Station Optimization Tool poster">
+  </details>
   <img src="/images/charging-station-optimization-tool.png" alt="Charging Station Optimization Tool screenshot">
 </div>
