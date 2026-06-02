@@ -78,6 +78,7 @@ This page highlights software demonstrations and applications developed by the S
 <div class="application-card" id="charge-express">
   <h2>Charge Express</h2>
   <p>By 2025, HKG plans to expand the number of charging stations to 5,000, nearly doubling the current amount. This app allows users to easily find the locations and details of both charging stations and taxi stands. It provides navigation and guides users on the best routes to these sites, helping them avoid wasting time.</p>
+  <iframe src="https://www.youtube.com/embed/Eq5MWJWCsD4?start=1" title="Charge Express" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
   <details>
     <summary class="btn btn--primary">View Poster</summary>
     <img src="/images/charge-express-poster.png" alt="Charge Express poster">

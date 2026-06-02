@@ -179,9 +179,10 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 0.65rem;
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
+    font-size: 0.95rem;
     text-decoration: none;
 
     &:hover {
@@ -315,6 +316,13 @@
       &:last-child {
         border-bottom: none;
       }
+    }
+  }
+
+  @include breakpoint(max-width $large) {
+    a {
+      margin: 0 0.45rem;
+      font-size: 0.9rem;
     }
   }
 }
