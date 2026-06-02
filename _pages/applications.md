@@ -9,14 +9,19 @@ This page highlights software demonstrations and applications developed by the S
 
 <style>
 .application-card {
-  border: 1px solid #e6e6e6;
+  border: 1px solid var(--global-border-color);
   border-radius: 8px;
   padding: 1.1rem;
   margin: 1.25rem 0 1.75rem;
-  background: #fff;
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
 }
 .application-card h2 {
   margin-top: 0;
+  color: var(--global-text-color);
+}
+.application-card p {
+  color: var(--global-text-color);
 }
 .application-card iframe {
   width: 100%;
