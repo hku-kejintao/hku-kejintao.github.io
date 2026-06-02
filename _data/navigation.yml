@@ -4,9 +4,6 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
   - title: "About"
     url: /
@@ -20,8 +17,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Videos"
-    url: /videos/
+  - title: "Applications"
+    url: /applications/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Miscellaneous"
+    url: /miscellaneous/

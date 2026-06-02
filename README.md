@@ -14,10 +14,10 @@ The site is built with the [Academic Pages](https://github.com/academicpages/aca
 - `_data/navigation.yml`: top navigation menu.
 - `_pages/about.md`: homepage biography.
 - `_pages/research.md`: research areas and group links.
-- `_pages/publications.html`: publications page.
-- `_pages/teaching.html`: teaching page.
-- `_pages/videos.md`: video page.
-- `_pages/cv.md`: CV page.
+- `_pages/publications.md`: publications page.
+- `_pages/teaching.md`: teaching page.
+- `_pages/applications.md`: applications, software tools, and videos.
+- `_pages/miscellaneous.md`: professional service, supervision, invited talks, and media.
 
 ## Local Preview
 
