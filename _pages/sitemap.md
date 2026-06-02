@@ -14,3 +14,4 @@ Pages
 - [Team](/team/)
 - [Applications](/applications/)
 - [Miscellaneous](/miscellaneous/)
+- [Join Us](/join-us/)

@@ -18,6 +18,7 @@ The site is built with the [Academic Pages](https://github.com/academicpages/aca
 - `_pages/team.md`: team members and student awards.
 - `_pages/applications.md`: applications, software tools, and videos.
 - `_pages/miscellaneous.md`: professional service and media coverage.
+- `_pages/join-us.md`: openings and application information.
 
 ## Local Preview
 
