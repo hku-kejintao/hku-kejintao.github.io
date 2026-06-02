@@ -21,6 +21,7 @@ Research Profile
 Selected Honors
 ======
 
+- Meritorious Service Award, Transportation Science, 2025.
 - Best paper award in the 15th International Workshop on Computational Transportation Science (CTS), June 2024.
 - Best poster paper award in the 2023 World Transportation Convention, 2023.
 - HKSTS Outstanding Dissertation Award (Honorable Mention), Hong Kong, August 2020.

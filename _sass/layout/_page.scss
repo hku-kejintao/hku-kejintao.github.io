@@ -50,6 +50,22 @@
 
 .page__content {
 
+  h1, h2, h3 {
+    margin-top: 1.6em;
+    margin-bottom: 0.6em;
+  }
+
+  h1:first-child,
+  h2:first-child,
+  h3:first-child {
+    margin-top: 0;
+  }
+
+  h1 + h2,
+  h2 + h3 {
+    margin-top: 1em;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);

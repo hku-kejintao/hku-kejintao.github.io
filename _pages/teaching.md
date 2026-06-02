@@ -8,8 +8,8 @@ author_profile: true
 Current Courses
 ======
 
-- CIVL 3140, Artificial Intelligence in Civil Engineering, HKU, 2023-present. [Course Code](https://github.com/hku-kejintao/AI-Code)
-- CIVL 7018, Data Science for Civil Engineering, HKU, 2022-present. [Course Code](https://github.com/hku-kejintao/AI-Code)
+- CIVL 3140, Artificial Intelligence in Civil Engineering, HKU, 2023-present. <sub><a href="https://github.com/hku-kejintao/AI-Code">[Course Code]</a></sub>
+- CIVL 7018, Data Science for Civil Engineering, HKU, 2022-present. <sub><a href="https://github.com/hku-kejintao/AI-Code">[Course Code]</a></sub>
 - CIVL 7019, Statistical Methods for Civil Engineering, HKU, 2022-present.
 - CIVL 1116, Introduction to Urban Development, HKU, 2022-present.
 
