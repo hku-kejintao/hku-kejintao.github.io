@@ -13,8 +13,7 @@ The site is built with the [Academic Pages](https://github.com/academicpages/aca
 - `_config.yml`: site-wide settings, author profile, social links, and GitHub Pages URL.
 - `_data/navigation.yml`: top navigation menu.
 - `_pages/about.md`: homepage biography.
-- `_pages/research.md`: research areas and group links.
-- `_pages/publications.md`: publications page.
+- `_pages/research.md`: research publications, patents, and grants.
 - `_pages/teaching.md`: teaching page.
 - `_pages/team.md`: team members and student awards.
 - `_pages/applications.md`: applications, software tools, and videos.
