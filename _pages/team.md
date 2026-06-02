@@ -44,7 +44,7 @@ M.Phil. Students
 Current Research Assistants
 ------
 
-- Jiang Ziyang. He obtained his Bachelor in Traffic Engineering from Changsha University of Science and Technology and MSc from The University of Hong Kong.
+- Jiang Ziyang. He obtained his Bachelor in Traffic Engineering from Changsha University of Science and Technology and MSc in Transport Policy and Planning from The University of Hong Kong.
 
 Student Awards
 ------
