@@ -101,6 +101,10 @@ This page highlights software demonstrations and applications developed by our t
     <summary class="btn btn--primary">View Poster</summary>
     <img src="/images/charge-express-poster.png" alt="Charge Express poster">
   </details>
+  <details>
+    <summary class="btn btn--primary">View Charging Toolbox Poster</summary>
+    <img src="/images/charging-toolbox-poster.png" alt="Charging Toolbox poster">
+  </details>
 </div>
 
 <div class="application-card" id="charging-station-optimization-tool">
