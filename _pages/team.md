@@ -19,9 +19,9 @@ Ph.D. Students
 ------
 
 - Liang Jian, 2022/09-present. He obtained his Bachelor and Master in Transportation Engineering from Central South University. His thesis topic is "Behavior-Aware Service Reliability Management in On-Demand Delivery Platforms".
-- Chen Wang, 2022/09-present. He obtained his Bachelor in Civil Engineering from Tsinghua University. His thesis topic is "optimization for high-capacity ride-sharing services".
-- Zhang Kaihang, 2022/09-present. He obtained his Bachelor in Civil Engineering from Zhejiang University and Master in Transportation Engineering from University of California at Berkeley. His thesis topic is "modelling and management for on-demand food delivery services".
-- Wang Ce, 2022/09-present. He obtained his Bachelor in Civil Engineering from Zhejiang University and Master in Transportation Engineering from University of Washington. His thesis topic is "modelling and management for autonomous mobility on-demand services".
+- Chen Wang, 2022/09-present. He obtained his Bachelor in Civil Engineering from Tsinghua University. His thesis topic is "Simulation, Quantification, and Optimization for Dynamic High-Capacity Ride-Sharing Services".
+- Zhang Kaihang, 2022/09-present. He obtained his Bachelor in Civil Engineering from Zhejiang University and Master in Transportation Engineering from University of California at Berkeley. His thesis topic is "Operational management of on-demand food delivery: tactical design, behavioral operations and network equilibrium".
+- Wang Ce, 2022/09-present. He obtained his Bachelor in Civil Engineering from Zhejiang University and Master in Transportation Engineering from University of Washington. His thesis topic is "Equilibrium analysis of matching and pricing in ride-hailing markets".
 - Chen Taijie, 2023/04-present. He obtained his Bachelor in Software Engineering from Nankai University and MSc in Computer Science from The University of Hong Kong. His thesis topic is "simulation and operation for urban multimodal transportation systems".
 - Wang Jiguang, 2023/09-present. He obtained his Bachelor in Logistics Engineering from Shanghai Maritime University and M.S. in Management Science and Engineering from Tsinghua University. His thesis topic is "optimization for electrified and shared urban transport systems".
 - Shi Hongzheng, 2023/09-present. He obtained his Bachelor in Civil Engineering from Tsinghua University. His thesis topic is "emergency management for massive transit rail systems".
