@@ -65,6 +65,12 @@ Selected Conference Papers
 - Zhu, Z., <strong>Ke, J.*</strong>, and Wang, H., 2021. A mean-field Markov decision process for ride-sourcing modeling: optimization of spatial subsidy and idle vehicle relocation. In Proceedings of the 24th International Symposium on Transportation and Traffic Theory (ISTTT24).
 - Yao, H., Wu, F., <strong>Ke, J.</strong>, Tang, X., Jia, Y., Lu, S., Gong, P., and Ye, J., 2018. Deep multi-view spatial temporal network for taxi demand prediction. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), New Orleans, United States.
 
+Patents
+======
+
+- System and method for determining passenger-seeking ride-sourcing vehicle navigation, U.S. Patent No. US 11,094,028 B2.
+- A regional approach for predicting ride-hailing supply-demand gap, Chinese Invention Patent No. CN109948822B.
+
 Full Publication List
 ======
 

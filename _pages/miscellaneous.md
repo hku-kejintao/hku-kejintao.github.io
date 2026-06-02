@@ -25,6 +25,13 @@ Selected conference and committee service:
 - Co-Chair of Organizing Committee, 9th International Symposium on Transport Network Resilience, 2023.
 - Chair of Technical Program Committee, Committee of Artificial Intelligence Empowered Traffic Management and Service, World Transport Convention, 2024-present.
 
+Public & Community Service
+======
+
+- Executive Chairman, Hong Kong Taxi Council, 2025-present.
+- Judging panel member, 2026 Outstanding Quality Tourism Services Merchant Service Staff Awards, organized by Hong Kong Tourism Board, May 2025.
+- Expert Review Panel (ERP) Member, Logistics and Supply Chain MultiTech R&D Centre, January 2023 to December 2024.
+
 Press and Media
 ======
 

@@ -26,6 +26,7 @@ Selected external grants as PI include:
 
 - Smart Traffic Fund: "SmartSim: AI-assisted Simulation Software for Multimodal Transportation Operations", 2024-2026.
 - MTR Research Funding: "Multimodal traffic simulation, route recommendation and subsidy: Enhancing first and last mile connectivity for MTR", 2026-2028.
+- Highways Department: "Provision of Services for Independent Review on Application of Artificial Intelligence (AI) on Railway Development Study (RDS) Model to the Highways Department as detailed in the Service Specification", 2026.
 - RGC General Research Fund: "Matching strategy designs for e-hailing taxi markets under the broadcasting mechanism", 2026-2028.
 - Public Policy Research Funding Scheme: "A Planning Scheme of Commercial Electric Vehicle Chargers for Promoting Green Transport in Hong Kong", 2024-2025.
 - RGC Early Career Scheme: "Modelling, simulation, and operational strategy designs for on-demand food delivery services", 2024-2026.
@@ -40,17 +41,3 @@ Open-Source Code
 - [Transportation Simulator](https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator): an open-sourced traffic simulation platform for on-demand ride service operations.
 - [Ride-sharing Simulator](https://github.com/HKU-Smart-Mobility-Lab/Ride-sharing-Simulator): an open-sourced simulator for high-capacity ride-sharing services.
 - [AI-Code](https://github.com/hku-kejintao/AI-Code): coding practice tutorials for teaching and learning AI for civil engineering.
-
-Knowledge Exchange
-======
-
-- PI, independent review on application of artificial intelligence on Railway Development Study model for the Highways Department, 2026.
-- PI, HKU Knowledge Exchange Funding Exercise 2023/24: "A Large-scale Simulation Platform and AI based Algorithms for Operating Shared Mobility Services in Hong Kong".
-- Executive Chairman, Hong Kong Taxi Council, 2025-present.
-- Expert Review Panel Member, Logistics and Supply Chain MultiTech R&D Centre, 2023-2024.
-
-Patents
-======
-
-- System and method for determining passenger-seeking ride-sourcing vehicle navigation, U.S. Patent No. US 11,094,028 B2.
-- A regional approach for predicting ride-hailing supply-demand gap, Chinese Invention Patent No. CN109948822B.
