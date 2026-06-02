@@ -8,20 +8,14 @@ main:
   - title: "About"
     url: /
 
-  - title: "Grants"
+  - title: "Research"
     url: /research/
-
-  - title: "Publications"
-    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Team"
     url: /team/
-
-  - title: "Opportunities"
-    url: /opportunities/
 
   - title: "Applications"
     url: /applications/

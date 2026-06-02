@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-This page collects professional activities and media coverage that are not already covered in the research, teaching, publications, team, or applications pages.
+This page collects professional activities, public and community service, and media coverage.
 
 Professional Activities
 ======

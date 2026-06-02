@@ -9,10 +9,8 @@ Pages
 ======
 
 - [About](/)
-- [Grants](/research/)
-- [Publications](/publications/)
+- [Research](/research/)
 - [Teaching](/teaching/)
 - [Team](/team/)
-- [Opportunities](/opportunities/)
 - [Applications](/applications/)
 - [Miscellaneous](/miscellaneous/)
