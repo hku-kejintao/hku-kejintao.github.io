@@ -44,7 +44,7 @@ M.Phil. Students
 Current Research Assistants
 ------
 
-- Ziyang Jiang. He obtained his MSc from The University of Hong Kong.
+- Jiang Ziyang. He obtained his MSc from The University of Hong Kong.
 
 Student Awards
 ------
