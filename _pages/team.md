@@ -59,6 +59,8 @@ Student Awards
 - Chen Wang, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2022.
 - Zhang Kaihang, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2022.
 
+<br>
+
 Former Members
 ======
 
