@@ -50,7 +50,7 @@ Featured Research
     <div class="featured-research-content">
       <p class="featured-research-meta">2024 | Communications in Transportation Research, 4, 100141</p>
       <h3><a href="https://arxiv.org/pdf/2303.12336" target="_blank" rel="noopener">A multi-functional simulation platform for on-demand ride service operations</a></h3>
-      <p class="featured-research-authors">S. Feng, T. Chen, Y. Zhang, <strong>J. Ke</strong>, Z. Zheng, H. Yang</p>
+      <p class="featured-research-authors">S. Feng, T. Chen, Y. Zhang, <strong>J. Ke*</strong>, Z. Zheng, H. Yang</p>
       <p class="featured-research-links"><a href="https://arxiv.org/pdf/2303.12336" target="_blank" rel="noopener">PDF</a> <a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" target="_blank" rel="noopener">Code</a></p>
       <details>
         <summary>Abstract</summary>
@@ -66,7 +66,7 @@ Featured Research
     <div class="featured-research-content">
       <p class="featured-research-meta">2026 | ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</p>
       <h3><a href="https://arxiv.org/pdf/2605.20036" target="_blank" rel="noopener">D<sup>3</sup>-Subsidy: Online and sequential driver subsidy decision-making for large-scale ride-hailing market</a></h3>
-      <p class="featured-research-authors">T. Chen, R. Su, S. Feng, L. Zhang, H. Zhang, H. Wang, Z. Ma, <strong>J. Ke</strong></p>
+      <p class="featured-research-authors">T. Chen, R. Su, S. Feng, L. Zhang, H. Zhang, H. Wang, Z. Ma, <strong>J. Ke*</strong></p>
       <p class="featured-research-links"><a href="https://arxiv.org/pdf/2605.20036" target="_blank" rel="noopener">PDF</a></p>
       <details>
         <summary>Abstract</summary>
@@ -98,7 +98,7 @@ Featured Research
     <div class="featured-research-content">
       <p class="featured-research-meta">2026 | Transportation Research Part C: Emerging Technologies, 188, 105709</p>
       <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X2600197X" target="_blank" rel="noopener">Addressing the online incremental transport mode choice prediction problem with an LLM-augmented class-incremental learning approach</a></h3>
-      <p class="featured-research-authors">T. Chen, Z. Shen, B. Zhou, Y. Liu, S. Wang, <strong>J. Ke</strong></p>
+      <p class="featured-research-authors">T. Chen, Z. Shen, B. Zhou, Y. Liu, S. Wang, <strong>J. Ke*</strong></p>
       <p class="featured-research-links"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X2600197X" target="_blank" rel="noopener">PDF</a></p>
       <details>
         <summary>Abstract</summary>
@@ -114,7 +114,7 @@ Featured Research
     <div class="featured-research-content">
       <p class="featured-research-meta">2025 | Transportation Research Part E: Logistics and Transportation Review, 193, 103822</p>
       <h3><a href="https://www.sciencedirect.com/science/article/pii/S1366554524004137" target="_blank" rel="noopener">Dynamic matching radius decision model for on-demand ride services: A deep multi-task learning approach</a></h3>
-      <p class="featured-research-authors">T. Chen, Z. Shen, S. Feng, L. Yang, <strong>J. Ke</strong></p>
+      <p class="featured-research-authors">T. Chen, Z. Shen, S. Feng, L. Yang, <strong>J. Ke*</strong></p>
       <p class="featured-research-links"><a href="https://www.sciencedirect.com/science/article/pii/S1366554524004137" target="_blank" rel="noopener">PDF</a> <a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting" target="_blank" rel="noopener">Code</a></p>
       <details>
         <summary>Abstract</summary>
@@ -146,7 +146,7 @@ Featured Research
     <div class="featured-research-content">
       <p class="featured-research-meta">2026 | Transportation Research Part B: Methodological, 209, 103461</p>
       <h3><a href="https://www.sciencedirect.com/science/article/pii/S0191261526000731" target="_blank" rel="noopener">A three-sided network equilibrium model for on-demand food delivery services</a></h3>
-      <p class="featured-research-authors">K. Zhang, <strong>J. Ke</strong>, X. Wang</p>
+      <p class="featured-research-authors">K. Zhang, <strong>J. Ke*</strong>, X. Wang</p>
       <p class="featured-research-links"><a href="https://www.sciencedirect.com/science/article/pii/S0191261526000731" target="_blank" rel="noopener">PDF</a></p>
       <details>
         <summary>Abstract</summary>
@@ -162,7 +162,7 @@ Featured Research
     <div class="featured-research-content">
       <p class="featured-research-meta">2024 | Transportation Research Part B: Methodological, 190, 103070</p>
       <h3><a href="https://ideas.repec.org/a/eee/transb/v190y2024ics0191261524001942.html" target="_blank" rel="noopener">An aggregate matching and pick-up model for mobility-on-demand services</a></h3>
-      <p class="featured-research-authors">X. Li, <strong>J. Ke</strong>, H. Yang, H. Wang, Y. Zhou</p>
+      <p class="featured-research-authors">X. Li, <strong>J. Ke*</strong>, H. Yang, H. Wang, Y. Zhou</p>
       <p class="featured-research-links"><a href="https://ideas.repec.org/a/eee/transb/v190y2024ics0191261524001942.html" target="_blank" rel="noopener">PDF</a></p>
       <details>
         <summary>Abstract</summary>
@@ -170,4 +170,5 @@ Featured Research
       </details>
     </div>
   </article>
+  <p class="featured-research-note">* Corresponding author</p>
 </section>

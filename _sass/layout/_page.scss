@@ -525,6 +525,12 @@
     color: var(--global-text-color);
   }
 
+  .featured-research-note {
+    margin: 0.25rem 0 0;
+    color: var(--global-text-color-light);
+    font-size: 0.88em;
+  }
+
   @include breakpoint(max-width $small) {
     .featured-research-item {
       grid-template-columns: 1fr;
