@@ -10,12 +10,12 @@ Dr. Ke's research develops models, algorithms, simulation platforms, and data-dr
 Research Areas
 ======
 
-- Urban computing and smart cities
-- Machine learning and data mining for intelligent transportation systems
-- Spatiotemporal traffic pattern analysis and prediction
-- Transport economics
-- Smart mobility on-demand, including ride-sharing, ride-sourcing, and last-mile delivery
-- Land-use and transportation
+- Smart Transportation
+- Artificial Intelligence for Transportation
+- Spatio-Temporal Traffic Pattern Analysis/Prediction
+- Transport Modelling and Economics
+- Urban Computing & Smart Cities
+- Mobility On-Demand Services (Ride-Sharing, Ride-Sourcing, Last-Mile Delivery)
 
 Research Grants
 ======
@@ -45,7 +45,7 @@ Knowledge Exchange
 ======
 
 - PI, independent review on application of artificial intelligence on Railway Development Study model for the Highways Department, 2026.
-- PI, Knowledge Exchange Funding Exercise 2023/24: "A Large-scale Simulation Platform and AI based Algorithms for Operating Shared Mobility Services in Hong Kong".
+- PI, HKU Knowledge Exchange Funding Exercise 2023/24: "A Large-scale Simulation Platform and AI based Algorithms for Operating Shared Mobility Services in Hong Kong".
 - Executive Chairman, Hong Kong Taxi Council, 2025-present.
 - Expert Review Panel Member, Logistics and Supply Chain MultiTech R&D Centre, 2023-2024.
 
@@ -54,5 +54,3 @@ Patents
 
 - System and method for determining passenger-seeking ride-sourcing vehicle navigation, U.S. Patent No. US 11,094,028 B2.
 - A regional approach for predicting ride-hailing supply-demand gap, Chinese Invention Patent No. CN109948822B.
-- An AI-based system for simulating a transportation network, HK Patent filed.
-- Behavior-aware two-stage matching for mixed-autonomy on-demand mobility via MDP-based optimization, Chinese Invention Patent filed.

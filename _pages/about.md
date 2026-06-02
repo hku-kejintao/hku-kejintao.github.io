@@ -31,12 +31,12 @@ Selected Honors
 Research Interests
 ======
 
-- Urban computing and smart cities
-- Machine learning and data mining for intelligent transportation systems
-- Spatiotemporal traffic pattern analysis and prediction
-- Transport economics
-- Smart mobility on-demand, including ride-sharing, ride-sourcing, and last-mile delivery
-- Land-use and transportation
+- Smart Transportation
+- Artificial Intelligence for Transportation
+- Spatio-Temporal Traffic Pattern Analysis/Prediction
+- Transport Modelling and Economics
+- Urban Computing & Smart Cities
+- Mobility On-Demand Services (Ride-Sharing, Ride-Sourcing, Last-Mile Delivery)
 
 Links
 ======

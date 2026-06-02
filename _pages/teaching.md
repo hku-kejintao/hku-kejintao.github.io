@@ -39,9 +39,9 @@ Thesis and Project Supervision
 Teaching Areas
 ======
 
-- Traffic Engineering
+- Data Science for Engineers
+- Artificial Intelligence for Engineers
+- Statistics for Engineers
+- Traffic and Transportation Engineering
 - Transportation Planning
-- Transportation Economics
-- Data Science for Engineering
-- Statistics for Engineering
-- Business Analytics
+- Transport Economics
