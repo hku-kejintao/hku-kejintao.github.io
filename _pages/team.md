@@ -44,7 +44,7 @@ M.Phil. Students
 Current Research Assistants
 ------
 
-- Jiang Ziyang. He obtained his MSc from The University of Hong Kong.
+- Jiang Ziyang. He obtained his Bachelor in Traffic Engineering from Changsha University of Science and Technology and MSc from The University of Hong Kong.
 
 Student Awards
 ------
@@ -63,11 +63,11 @@ Former Members
 ======
 
 - Shen Zijian, Research Assistant, 2023-2024. He obtained his Bachelor in Automation from Beijing Institute of Technology and MSc in Computer Science from The University of Hong Kong. His next position was M.Phil., The University of Hong Kong.
-- Wang Zhao, Research Assistant. He obtained his Bachelor in Computer and Data Engineering from City University of Hong Kong and MSc in Computer Science from The University of Hong Kong. His next position was Software Engineer, Lyft.
+- Wang Zhao, Research Assistant, 2023-2025. He obtained his Bachelor in Computer and Data Engineering from City University of Hong Kong and MSc in Computer Science from The University of Hong Kong. His next position was Software Engineer, Lyft.
 - Wang Junheng, Research Assistant, 2023-2024. He obtained his Bachelor in Computer Science and Mathematics from University of Wisconsin-Madison and MSc in Computer Science from The University of Hong Kong. His next position was Ph.D., The University of Hong Kong.
 - Zhang Yuhao, Research Assistant, 2022-2024. He obtained his Bachelor in Software Engineering from Southeast University and MSc in Computer Science from The University of Hong Kong. His next position was Senior Software Engineer, Alibaba Group.
 - Liu Mingshuo, Research Assistant, 2023-2024. He obtained his Bachelor in Information and Computational Science from Xi'an Jiaotong University and MSc in Artificial Intelligence from The University of Hong Kong. His next position was Ph.D., City University of Hong Kong.
-- Liu Jingyun, Research Assistant, 2023-2024. He obtained his Bachelor of Business Administration from Hong Kong Baptist University, MSc in Business Analytics from The Chinese University of Hong Kong, and MSc in Computer Science from The University of Hong Kong. His next position was MSc in Software Engineering, Carnegie Mellon University.
+- Liu Jingyun, Research Assistant, 2023-2025. She obtained her Bachelor of Business Administration from Hong Kong Baptist University, MSc in Business Analytics from The Chinese University of Hong Kong, and MSc in Computer Science from The University of Hong Kong. Her next position was MSc in Software Engineering, Carnegie Mellon University.
 - Hu Zhongyou, Research Assistant, 2023-2024. He obtained his Bachelor in Software Engineering from Nankai University and MSc in Artificial Intelligence from The University of Hong Kong. His next position was Software Engineer, Huawei.
 - Ren Jiadong, Summer Intern, 2023. He obtained his Bachelor in Engineering from City University of Hong Kong and MSc in Civil Engineering from Hong Kong University of Science and Technology. His next position was Ph.D., Hong Kong Polytechnic University.
 - Jiang Shuo, Research Assistant, 2022-2023. He obtained his Bachelor of Engineering in Traffic Engineering from Sun Yat-sen University and MSc in Innovative Design and Technology from The University of Hong Kong. His next position was Ph.D., Nanyang Technological University.
