@@ -11,9 +11,9 @@ Current Members
 Postdoctoral Researchers
 ------
 
-- Xinglu Liu, 2024/11-present. He obtained his Ph.D. from Tsinghua University.
-- Bin Zhou, 2024/11-present. He obtained his Ph.D. from Zhejiang University.
-- Yongjie Xue, 2025/12-present. He obtained his Ph.D. from Beihang University.
+- Liu Xinglu, 2024/11-present. He obtained his Ph.D. from Tsinghua University.
+- Zhou Bin, 2024/11-present. He obtained his Ph.D. from Zhejiang University.
+- Xue Yongjie, 2025/12-present. He obtained his Ph.D. from Beihang University.
 
 Ph.D. Students
 ------
