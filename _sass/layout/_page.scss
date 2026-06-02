@@ -420,3 +420,119 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Featured research
+   ========================================================================== */
+
+.page__content {
+  .featured-research-list {
+    display: grid;
+    gap: 1rem;
+    margin: 1rem 0 2rem;
+  }
+
+  .featured-research-item {
+    display: grid;
+    grid-template-columns: minmax(160px, 32%) minmax(0, 1fr);
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  .featured-research-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 16 / 10;
+    min-height: 132px;
+    overflow: hidden;
+    background: var(--global-code-background-color);
+    border: 1px solid var(--global-border-color);
+    border-radius: 6px;
+    text-decoration: none;
+  }
+
+  .featured-research-image img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0.45rem;
+    object-fit: contain;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .featured-research-content h3 {
+    margin: 0.2rem 0 0.35rem;
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+
+  .featured-research-content h3 a,
+  .featured-research-links a,
+  .featured-research-image {
+    text-decoration: none;
+  }
+
+  .featured-research-content h3 a:hover,
+  .featured-research-links a:hover {
+    text-decoration: underline;
+  }
+
+  .featured-research-meta,
+  .featured-research-authors,
+  .featured-research-links {
+    margin: 0 0 0.35rem;
+    font-size: 0.88em;
+    line-height: 1.45;
+  }
+
+  .featured-research-meta {
+    color: var(--global-text-color-light);
+    font-weight: 600;
+  }
+
+  .featured-research-links {
+    font-weight: 600;
+  }
+
+  .featured-research-links a + a::before {
+    content: " | ";
+    color: var(--global-text-color-light);
+    font-weight: 400;
+  }
+
+  .featured-research-item details {
+    margin-top: 0.35rem;
+    font-size: 0.88em;
+  }
+
+  .featured-research-item summary {
+    display: inline-block;
+    color: var(--global-link-color);
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .featured-research-item details[open] summary {
+    margin-bottom: 0.25rem;
+  }
+
+  .featured-research-item details p {
+    margin: 0;
+    color: var(--global-text-color);
+  }
+
+  @include breakpoint(max-width $small) {
+    .featured-research-item {
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+    }
+
+    .featured-research-image {
+      min-height: 170px;
+    }
+  }
+}
