@@ -20,7 +20,7 @@ Research Areas
 Research Grants
 ======
 
-Since joining HKU in 2021, Dr. Ke has acquired over HK$12 million from 10 external research grants as Principal Investigator or Project Coordinator, and over HK$20 million as Co-PI or Co-I.
+Since my entry into HKU in 2021, I have acquired over $14 million HKD from 10 external research grants as a principal investigator (PI) or Project Coordinator (PC), and over $20 million HKD as a Co-PI or Co-I.
 
 Selected external grants as PI include:
 

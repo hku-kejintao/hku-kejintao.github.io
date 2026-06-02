@@ -16,7 +16,7 @@ Research Profile
 - Received more than 6,800 Google Scholar citations with an H-index of 35.
 - Ranked among the World's Top 2% Scientists by Stanford University and Elsevier from 2023 to 2025.
 - Listed as a Top 1% Scholar by Clarivate Analytics' Essential Science Indicators in 2025.
-- Acquired over HK$12 million from 10 external research grants as PI or Project Coordinator since joining HKU.
+- Acquired over HK$14 million from 10 external research grants as PI or Project Coordinator since joining HKU.
 
 Selected Honors
 ======

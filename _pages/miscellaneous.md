@@ -3,34 +3,9 @@ layout: archive
 title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
-redirect_from:
-  - /resume/
 ---
 
-This page collects professional service, student supervision, media coverage, and selected invited activities that are not already covered in the research, teaching, publications, or applications pages.
-
-Student Supervision
-======
-
-Selected current Ph.D. students and research topics:
-
-- Liang Jian, operational strategy designs for on-demand food delivery services.
-- Chen Wang, optimization for high-capacity ride-sharing services.
-- Zhang Kaihang, modelling and management for on-demand food delivery services.
-- Wang Ce, modelling and management for autonomous mobility on-demand services.
-- Chen Taijie, simulation and operation for urban multimodal transportation systems.
-- Wang Jiguang, optimization for electrified and shared urban transport systems.
-- Shi Hongzheng, emergency management for massive transit rail systems.
-
-Selected student awards:
-
-- Chen Wang, Research Postgraduate Student Innovation Award of HKU, 2025.
-- Xu Jihao, HKU Presidential PhD Scholarship, 2025.
-- Zhang Xun, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2024.
-- Lin Jingxian, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2024.
-- Shi Hongzheng, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2023.
-- Chen Wang, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2022.
-- Zhang Kaihang, Hong Kong PhD Fellowship and HKU Presidential PhD Scholarship, 2022.
+This page collects professional activities and media coverage that are not already covered in the research, teaching, publications, team, or applications pages.
 
 Professional Activities
 ======
@@ -50,26 +25,20 @@ Selected conference and committee service:
 - Co-Chair of Organizing Committee, 9th International Symposium on Transport Network Resilience, 2023.
 - Chair of Technical Program Committee, Committee of Artificial Intelligence Empowered Traffic Management and Service, World Transport Convention, 2024-present.
 
-Service and Administration
-======
-
-- Transportation Group Coordinator, Department of Civil Engineering, HKU, 2022-present.
-- Member, Master of Arts in Transport Policy and Planning Admission Committee, HKU, 2021-present.
-- Interviewer, Joint University Programmes Admissions System, 2022-present.
-- Advisor, Equal Opportunity Unit, HKU, 2022-present.
-
-Selected Invited Talks
-======
-
-- Simulation, artificial intelligence and optimization for on-demand mobility systems, New York University, 2025.
-- Operating strategy designs for on-demand ride service systems, Columbia University, 2025.
-- A large-scale simulation platform for mobility on-demand services, George Mason University, 2025.
-- Simulation and AI-driven algorithms for e-hailing taxi industry in Hong Kong, HKU SPACE industry workshop, 2025.
-- A large-scale simulation platform for mobility on-demand services, Bridging Transportation Researchers Conference, 2024.
-- Operations and management of on-demand food delivery services, Nanjing University, 2024.
-- A large-scale simulation platform for on-demand ride service operations and related AI algorithms, Tsinghua University, 2023.
-
 Press and Media
 ======
 
-Selected coverage in 2025 included reports by *The Standard*, *South China Morning Post*, TVB News, i-Cable, RTHK, Hong Kong Commercial Daily, Now News, HK01, Hong Kong Economic Journal, Ming Pao, Oriental Daily News, Wen Wei Po, and HKET on the AI-powered taxi dispatch system jointly developed by HKU and an industry partner.
+The AI-powered Smart Dispatch Decision System jointly developed by HKU Smart Mobility Lab and SynCab received broad media coverage in 2025. The system integrates real-time traffic, passenger demand, taxi locations, weather, and electric taxi battery information to improve dispatching decisions for taxi fleet operations.
+
+Selected coverage:
+
+- [HKU Engineering Scholars and SynCab Co-Launch AI-Powered "Smart Dispatch Decision" System](https://www.hku.hk/press/press-releases/detail/28528.html), HKU Press Release, 2025.
+- [香港大學工程學者與星群的士共同開發及推出「智能派單决策」系統](https://www.hku.hk/press/press-releases/detail/c_28528.html), HKU Chinese Press Release, 2025.
+- [Hong Kong taxi fleet, HKU roll out city's first AI-powered dispatch system](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3320686/hong-kong-taxi-fleet-hku-roll-out-citys-first-ai-powered-dispatch-system), *South China Morning Post*, 2025.
+- [Taxi fleet 'fares better with new AI dispatch system'](https://news.rthk.hk/rthk/en/component/k2/1816597-20250804.htm), RTHK English News, 2025.
+- [有的士車隊推出「智能派單決策」系統方便司機與乘客](https://news.rthk.hk/rthk/ch/component/k2/1816592-20250804.htm), RTHK Chinese News, 2025.
+- [港大與星群的士合作研發「智能派單決策」系統 提高派單效率](http://www.hkcd.com/hkcdweb/content/2025/08/04/content_8707394.html), Hong Kong Commercial Daily, 2025.
+- [星群的士×港大 AI 智能派單系統 測試後接單量倍增](https://unwire.hk/2025/08/04/ai-taxi-matching-system-hk/life-tech/), unwire.hk, 2025.
+- [Hong Kong: AI-Powered Dispatch Boosts Urban Taxi Mobility](https://opengovasia.com/hong-kong-ai-powered-dispatch-boosts-urban-taxi-mobility/), OpenGov Asia, 2025.
+- [SynCab Achieves Major Milestone as Hong Kong's First Officially Licensed Taxi Fleet](https://syncab.com.hk/en/news-centre/latest-updates/news-list/syncab-achieves-major-milestone-as-hong-kongs-first-officially-licensed-taxi-fleet/), SynCab News Centre, 2025.
+- [Syncab launches Hong Kong's first licensed AI taxi fleet under TFL001](https://syncab.com.hk/en/news-centre/media-coverage/news-list/syncab-launches-hong-kong-s-first-licensed-ai-taxi-fleet-under-tfl001/), SynCab Media Coverage, 2025.

@@ -7,7 +7,7 @@ author_profile: true
 
 By June 2026, Dr. Ke has co-authored over 60 peer-reviewed journal articles. His papers have received more than 6,800 citations with an H-index of 35 according to [Google Scholar](https://scholar.google.com/citations?user=8G--UccAAAAJ&hl=en). He was ranked among the top 2% of scientists by Stanford University and Elsevier from 2023 to 2025, currently ranking 254th out of 30,588 authors in the subfield of Logistics and Transportation.
 
-<small><strong>Notes:</strong> <strong>Ke, J.</strong> denotes Dr. Jintao Ke. * indicates corresponding author. Underlined authors are RAPs, Postdocs, Ph.D., M.Phil., or RAs supervised by Dr. Ke.</small>
+<small><strong>Notes:</strong> * indicates corresponding author. Underlined authors are RAPs, Postdocs, Ph.D., M.Phil., or RAs supervised by Dr. Ke.</small>
 
 Book
 ======

@@ -16,8 +16,9 @@ The site is built with the [Academic Pages](https://github.com/academicpages/aca
 - `_pages/research.md`: research areas and group links.
 - `_pages/publications.md`: publications page.
 - `_pages/teaching.md`: teaching page.
+- `_pages/team.md`: team members and student awards.
 - `_pages/applications.md`: applications, software tools, and videos.
-- `_pages/miscellaneous.md`: professional service, supervision, invited talks, and media.
+- `_pages/miscellaneous.md`: professional service and media coverage.
 
 ## Local Preview
 

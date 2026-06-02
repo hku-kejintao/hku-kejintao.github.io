@@ -17,6 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Team"
+    url: /team/
+
   - title: "Applications"
     url: /applications/
 
