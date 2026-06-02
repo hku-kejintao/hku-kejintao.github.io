@@ -13,5 +13,6 @@ Pages
 - [Publications](/publications/)
 - [Teaching](/teaching/)
 - [Team](/team/)
+- [Opportunities](/opportunities/)
 - [Applications](/applications/)
 - [Miscellaneous](/miscellaneous/)

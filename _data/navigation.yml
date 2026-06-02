@@ -20,6 +20,9 @@ main:
   - title: "Team"
     url: /team/
 
+  - title: "Opportunities"
+    url: /opportunities/
+
   - title: "Applications"
     url: /applications/
 
