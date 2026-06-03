@@ -44,14 +44,14 @@ Featured Research
 
 <section class="featured-research-list">
   <article class="featured-research-item">
-    <a class="featured-research-image" href="https://arxiv.org/pdf/2303.12336" target="_blank" rel="noopener">
+    <a class="featured-research-image" href="https://www.sciencedirect.com/science/article/pii/S2772424724000246" target="_blank" rel="noopener">
       <img src="/images/publication/1-simulator.jpg" alt="Simulation platform for on-demand ride service operations">
     </a>
     <div class="featured-research-content">
       <p class="featured-research-meta">2024 | Communications in Transportation Research, 4, 100141</p>
-      <h3><a href="https://arxiv.org/pdf/2303.12336" target="_blank" rel="noopener">A multi-functional simulation platform for on-demand ride service operations</a></h3>
+      <h3><a href="https://www.sciencedirect.com/science/article/pii/S2772424724000246" target="_blank" rel="noopener">A multi-functional simulation platform for on-demand ride service operations</a></h3>
       <p class="featured-research-authors">S. Feng, T. Chen, Y. Zhang, <strong>J. Ke*</strong>, Z. Zheng, H. Yang</p>
-      <p class="featured-research-links"><a href="https://arxiv.org/pdf/2303.12336" target="_blank" rel="noopener">PDF</a> <a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" target="_blank" rel="noopener">Code</a></p>
+      <p class="featured-research-links"><a href="https://www.sciencedirect.com/science/article/pii/S2772424724000246" target="_blank" rel="noopener">PDF</a> <a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" target="_blank" rel="noopener">Code</a></p>
       <details>
         <summary>Abstract</summary>
         <p>This work introduces an open-source simulator for ride-sourcing operations on real transportation networks. It models passenger and driver behavior and supports algorithm testing for matching, idle-vehicle repositioning, dynamic pricing, and reinforcement learning.</p>
