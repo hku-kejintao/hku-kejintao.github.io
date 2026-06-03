@@ -47,7 +47,7 @@ Selected coverage:
 - [星群的士與港大合作 推出AI派單系統](https://news.rthk.hk/rthk/ch/component/k2/1816592-20250804.htm), 香港電台, 2025.
 - [的士車隊｜港大與星群的士研智能派單系統 提升接單效率](https://www.hk01.com/社會新聞/60263387/的士車隊-港大與星群的士研智能派單系統-提升接單效率), 香港01, 2025.
 - [星群的士｜160架的士配AI派單系統](https://hk.on.cc/hk/bkn/cnt/news/20250804/bkn-20250804133317167-0804_00822_001.html), 東網 on.cc, 2025.
-- [Hong Kong taxi fleet, HKU roll out city's first AI-powered dispatch system](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3320686/hong-kong-taxi-fleet-hku-roll-out-citys-first-ai-powered-dispatch-system), *South China Morning Post*, 2025.
+- [Hong Kong taxi fleet, HKU roll out city's first AI-powered dispatch system](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3320686/hong-kong-taxi-fleet-hku-roll-out-citys-first-ai-powered-dispatch-system), South China Morning Post, 2025.
 - [HKU Engineering Scholars and SynCab Co-Launch AI-Powered "Smart Dispatch Decision" System](https://www.hku.hk/press/news_detail_28528.html), HKU News & Media, 2025.
 - [星群的士夥港大 推AI派單](https://www.hkej.com/dailynews/views/article/4156380/星群的士夥港大+推AI派單), 信報財經新聞, 2025.
 - [港大、星群的士推智能派單系統](https://news.mingpao.com/pns/港聞/article/20250805/s00002/1754329322845/港大-星群的士推智能派單系統), 明報新聞, 2025.

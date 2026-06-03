@@ -86,7 +86,7 @@ This page highlights software demonstrations and applications developed by our t
 <div class="application-card" id="taxi-idle-cruising-app">
   <h2>Taxi Idle Cruising App</h2>
   <p>A substantial share of taxi operating time is spent on idle cruising while searching for passengers. This app recommends idle searching and cruising routes for taxi drivers in Hong Kong to mitigate supply-demand imbalance and improve operating efficiency. The recommendation algorithm is supported by tailored reinforcement learning methods.</p>
-  <iframe src="https://www.youtube.com/embed/1B7JK_JBoL0" title="Taxi Idle Cruising App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/YV036g046AA" title="Taxi Idle Cruising App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
   <details>
     <summary class="btn btn--primary">Download App</summary>
     <img src="/images/idle-cruising-download-qr.png" alt="Taxi Idle Cruising App download QR codes">
