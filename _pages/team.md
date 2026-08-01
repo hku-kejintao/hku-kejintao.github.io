@@ -35,12 +35,7 @@ Ph.D. Students
 M.Phil. Students
 ------
 
-- Shen Zijian, 2024/09-2026/09. He obtained his Bachelor in Automation from Beijing Institute of Technology and MSc in Computer Science from The University of Hong Kong. His thesis topic is "A deep reinforcement learning model for centralized route recommendation in multi-modal transit networks".
-
-Current Research Assistants
-------
-
-- Jiang Ziyang. He obtained his Bachelor in Traffic Engineering from Changsha University of Science and Technology and MSc in Transport Policy and Planning from The University of Hong Kong.
+- Jiang Ziyang, 2026/09-2028/08. He obtained his Bachelor in Traffic Engineering from Changsha University of Science and Technology and MSc in Transport Policy and Planning from The University of Hong Kong.
 
 Student Awards
 ------
@@ -60,10 +55,22 @@ Student Awards
 Former Members
 ======
 
+Former Ph.D. Students
+------
+
 - Liang Jian, Ph.D. Student, 2022/09-2026/08. He obtained his Bachelor and Master in Transportation Engineering from Central South University. His thesis topic was "Behavior-Aware Service Reliability Management in On-Demand Delivery Platforms". His next position was Postdoctoral Fellow, The University of Hong Kong.
 - Chen Wang, Ph.D. Student, 2022/09-2026/08. He obtained his Bachelor in Civil Engineering from Tsinghua University. His thesis topic was "Simulation, Quantification, and Optimization for Dynamic High-Capacity Ride-Sharing Services". His next position was LLM Engineer, TikTok.
 - Zhang Kaihang, Ph.D. Student, 2022/09-2026/08. He obtained his Bachelor in Civil Engineering from Zhejiang University and Master in Transportation Engineering from University of California at Berkeley. His thesis topic was "Operational management of on-demand food delivery: tactical design, behavioral operations and network equilibrium". His next position was Postdoctoral Fellow, Singapore Management University.
 - Wang Ce, Ph.D. Student, 2022/09-2026/08. He obtained his Bachelor in Civil Engineering from Zhejiang University and Master in Transportation Engineering from University of Washington. His thesis topic was "Equilibrium analysis of matching and pricing in ride-hailing markets". His next position was Postdoctoral Fellow, HKUST (GZ campus).
+
+Former M.Phil. Students
+------
+
+- Shen Zijian, M.Phil. Student, 2024/09-2026/09. He obtained his Bachelor in Automation from Beijing Institute of Technology and MSc in Computer Science from The University of Hong Kong. His thesis topic was "A deep reinforcement learning model for centralized route recommendation in multi-modal transit networks". His next position was Ph.D. Student, The University of Hong Kong.
+
+Former Staff
+------
+
 - Shen Zijian, Research Assistant, 2023-2024. He obtained his Bachelor in Automation from Beijing Institute of Technology and MSc in Computer Science from The University of Hong Kong. His next position was M.Phil., The University of Hong Kong.
 - Wang Zhao, Research Assistant, 2023-2025. He obtained his Bachelor in Computer and Data Engineering from City University of Hong Kong and MSc in Computer Science from The University of Hong Kong. His next position was Software Engineer, Lyft.
 - Wang Junheng, Research Assistant, 2023-2024. He obtained his Bachelor in Computer Science and Mathematics from University of Wisconsin-Madison and MSc in Computer Science from The University of Hong Kong. His next position was Ph.D., The University of Hong Kong.
@@ -76,3 +83,4 @@ Former Members
 - Chen Taijie, Research Assistant, 2022-2023. He obtained his Bachelor in Software Engineering from Nankai University and MSc in Computer Science from The University of Hong Kong. His next position was Ph.D., The University of Hong Kong.
 - Li Tianpei, Research Assistant, 2022. He obtained his Bachelor in Industrial Design from South China University of Technology and MSc in Computer Science from The University of Hong Kong. His next position was Ph.D., City University of Hong Kong.
 - Liu Simin, Research Assistant, 2022. He obtained his Bachelor in Mathematics from Harbin Institute of Technology and MSc in Applied Geosciences from The University of Hong Kong. His next position was Ph.D., City University of Hong Kong.
+- Liang Jian, Research Assistant, 2021-2022. He obtained his Bachelor and Master in Transportation Engineering from Central South University. His next position was Ph.D. Student, The University of Hong Kong.
