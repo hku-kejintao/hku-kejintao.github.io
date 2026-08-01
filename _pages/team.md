@@ -29,7 +29,7 @@ Ph.D. Students
 - Chen Jiakang, 2025/09-present. He obtained his Bachelor of Mechanical Engineering from Shanghai Jiao Tong University.
 - Xu Jiahao, 2025/09-present. He obtained his Bachelor in Civil Engineering from Penn State University and Master in Civil Engineering from University of California, Berkeley.
 - Su Rui, 2026/09-present. He obtained his Bachelor of Management in Big Data Management and Application from Harbin Institute of Technology.
-- Shen Zijian, 2026/09-present. He obtained his M.Phil. from The University of Hong Kong.
+- Shen Zijian, 2026/09-present. He obtained his Bachelor in Automation from Beijing Institute of Technology, MSc in Computer Science from The University of Hong Kong, and M.Phil. from The University of Hong Kong.
 - Xu Tianyi, 2026/09-present. She obtained her Bachelor in Civil Engineering from Zhejiang University.
 
 M.Phil. Students
