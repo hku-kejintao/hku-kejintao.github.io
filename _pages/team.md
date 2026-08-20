@@ -25,7 +25,7 @@ Ph.D. Students
 - Lin Jingxian, 2024/09-present. He obtained his Bachelor in Civil Engineering from Tsinghua University.
 - Zhang Xun, 2024/09-present. She obtained her Bachelor in Civil Engineering from Zhejiang University.
 - Lai Kefan, 2024/09-present. He obtained his Bachelor in Industrial Engineering and M.S. in Management Science and Engineering from Tsinghua University.
-- Zhao Ruidong, 2025/02-present. He obtained his Bachelor of Engineering from Hohai University, MSc in Data-Driven Modeling from The Hong Kong University of Science and Technology, and MPhil in Industrial Engineering and Decision Analytics from The Hong Kong University of Science and Technology.
+- Zhao Ruidong, Part-time Ph.D. Student, 2025/02-present. He obtained his Bachelor of Engineering from Hohai University, MSc in Data-Driven Modeling from The Hong Kong University of Science and Technology, and MPhil in Industrial Engineering and Decision Analytics from The Hong Kong University of Science and Technology.
 - Chen Jiakang, 2025/09-present. He obtained his Bachelor of Mechanical Engineering from Shanghai Jiao Tong University.
 - Xu Jiahao, 2025/09-present. He obtained his Bachelor in Civil Engineering from Penn State University and Master in Civil Engineering from University of California, Berkeley.
 - Su Rui, 2026/09-present. He obtained his Bachelor of Management in Big Data Management and Application from Harbin Institute of Technology.
